@@ -37,7 +37,9 @@ onOnline Novel Platform Project, that will allows any people to create their nov
 
 
 
-## Repository, Source Code & Links > Main Source code & Deployed Repository - https://github.com/singekkasith/crud
+## Repository, Source Code & Links 
+> Main Source code & Deployed Repository 
+     - https://github.com/singekkasith/crud
 
 > Frontend Source code & Repository - https://github.com/singekkasith/crud-frontend
 
